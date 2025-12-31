@@ -1,1 +1,1 @@
-print("success")
+print("success without s")
